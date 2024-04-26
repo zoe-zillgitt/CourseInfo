@@ -1,1 +1,32 @@
-
+[
+    {
+        "requirement_name" : "CS 065",
+        "num_required" : 1,
+        "courses" : ["CS 065"]
+    },
+    {
+        "requirement_name" : "CYB 010",
+        "num_required" : 1,
+        "courses" : ["CYB 010"]
+    },
+    {
+        "requirement_name" : "IS 083",
+        "num_required" : 1,
+        "courses" : ["IS 083"]
+    },
+    {
+        "requirement_name" : "CYB 140",
+        "num_required" : 1,
+        "courses" : ["CYB 140"]
+    },
+    {
+        "requirement_name" : "IS 150",
+        "num_required" : 1,
+        "courses" : ["IS 150"]
+    },
+    {
+        "requirement_name" : "Math Proof",
+        "num_required" : 1,
+        "courses" : ["MATH 054", "MATH 050"]
+    }
+]
