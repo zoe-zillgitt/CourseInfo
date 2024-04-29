@@ -1,0 +1,6 @@
+[
+    {
+        "course" : "CS 066",
+        "prerequisites" : ["CS 065"]
+    },
+]
